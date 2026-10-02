@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://sale-affairs-sheffield-nail.trycloudflare.com";
+window.VAULT_ORIGIN = "https://isle-consistency-infrared-broker.trycloudflare.com";
