@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://supported-planet-est-employment.trycloudflare.com";
+window.VAULT_ORIGIN = "https://freedom-wonderful-covers-although.trycloudflare.com";
