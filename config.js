@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://isle-consistency-infrared-broker.trycloudflare.com";
+window.VAULT_ORIGIN = "https://supported-planet-est-employment.trycloudflare.com";
