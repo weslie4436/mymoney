@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://bell-rooms-fence-full.trycloudflare.com";
+window.VAULT_ORIGIN = "https://collected-corn-molecules-physically.trycloudflare.com";
