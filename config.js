@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://collected-corn-molecules-physically.trycloudflare.com";
+window.VAULT_ORIGIN = "https://organized-pole-adds-folk.trycloudflare.com";
