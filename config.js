@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://thriller-fixed-bands-professional.trycloudflare.com";
+window.VAULT_ORIGIN = "https://bind-conferences-submitted-consecutive.trycloudflare.com";
