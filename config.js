@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://bind-conferences-submitted-consecutive.trycloudflare.com";
+window.VAULT_ORIGIN = "https://webmasters-heights-stuff-radius.trycloudflare.com";
