@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://webmasters-heights-stuff-radius.trycloudflare.com";
+window.VAULT_ORIGIN = "https://proprietary-sculpture-part-single.trycloudflare.com";
