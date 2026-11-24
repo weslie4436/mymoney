@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://proprietary-sculpture-part-single.trycloudflare.com";
+window.VAULT_ORIGIN = "https://condos-soul-testimonials-computation.trycloudflare.com";
