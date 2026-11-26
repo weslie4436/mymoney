@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://bargain-gen-indicate-bronze.trycloudflare.com";
+window.VAULT_ORIGIN = "https://dont-pets-niagara-keno.trycloudflare.com";
